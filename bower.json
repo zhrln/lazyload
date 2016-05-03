@@ -1,0 +1,9 @@
+{
+    "name": "ng-lazyload",
+    "version": "1.0.0",
+    "authors": [
+        "yanjing<yanjing.zr@alibaba-inc.com>"
+    ],
+    "dependencies": {
+    }
+}

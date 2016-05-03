@@ -1,0 +1,17 @@
+{
+  "name": "ng-lazyload",
+  "version": "1.0.0",
+  "description": "lazyload",
+  "main": "ng-lazyload.js",
+  "author": "yanjing<yanjing.zr@alibaba-inc.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-insert": "^0.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1",
+    "gulp-ngm-umdwrap": "^1.0.4"
+  }
+}
